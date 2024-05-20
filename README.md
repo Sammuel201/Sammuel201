@@ -1,6 +1,6 @@
 ###
 <div>
-<img align="center" alt="Header" src="https://github.com/sammuel201/sammuel201/blob/main/github-header-image(1).png?raw=true"/>
+<img align="center" alt="Header" src="https://github.com/sammuel201/sammuel201/blob/main/github-header-image(1).png?raw=true"/ width= "900px"/ padding">
 </div>
 <!--
 **Sammuel201/Sammuel201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
