@@ -1,6 +1,6 @@
 ###
 <div>
-<img align="center" alt="Header" src="https://github.com/sammuel201/sammuel201/blob/main/github-header-image(1).png?raw=true"/ width= "900px"/ padding">
+<img align="center" alt="Header" src="https://github.com/sammuel201/sammuel201/blob/main/github-header-image(1).png?raw=true"/ width= "700px"/ padding">
 </div>
 <!--
 **Sammuel201/Sammuel201** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -156,5 +156,8 @@ Em 2014, conheci meu primeiro emprego, na qual trabalhei em uma padaria no perio
 <a href="https://gitlab.com/sammuel201" target="_blank"><img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
 <a href="https://github.com/sammuel201" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
 </div>
-
+<div>
+<img align="center" alt="Header" src="Sem título.png?raw=true"/ width= "700px"/ padding= "1px"/ border="2px"/ margin= "2px">
+ 
+</div>
 </div>
