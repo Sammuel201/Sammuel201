@@ -42,6 +42,7 @@ Em 2014, conheci meu primeiro emprego, na qual trabalhei em uma padaria no perio
 </div>
 <br>
 <img height="20" alt="GIF" src="https://github.com/joaopauloaramuni/joaopauloaramuni/blob/main/img/soulgem.gif?raw=true"/>Meus interesses pessoais:
+<img align="right" alt="Header" src="12345.gif?raw=true"/ width= "300px"/padding="70px"/ border="2px"/ margin= "2px">
 
 <div align="justify">
 <p> 
@@ -53,6 +54,8 @@ Em 2014, conheci meu primeiro emprego, na qual trabalhei em uma padaria no perio
 - :🔔Meus hobbies são 🎮, 🍰, 🐕,🎶,⚽ e 🚴
 </p>
 </div>
+ 
+
 </div>
 <div>
 
