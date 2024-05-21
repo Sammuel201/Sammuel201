@@ -46,11 +46,11 @@ Em 2014, conheci meu primeiro emprego, na qual trabalhei em uma padaria no perio
 
 <div align="justify">
 <p> 
-- :🎓man_teacher: &nbsp; Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> Análise e Desenvolvimento de Sistemas.<br />
-- :💼:mortar_board: &nbsp; Na PLAYVENDER DO BRASIL SA </a>, sou <code>analista de credito</code> no setor de  <br />credito cobrança.<br />
-- :📚necktie: &nbsp; Na <a UDEMY</a>, sou aluno nos cursos de  <code>front end, css e javascript </code>, <br>
-- :⚽ meu time de coração é o galo 🐓<br>
-- :🚴 Nas Horas vagas gosto de jogar bola ⚽ e andar de bicicleta 🥇<br>
+- :🎓Na <a href="https://newtonpaiva.br/" target="_blank">Newton Paiva</a>, sou <code>aluno</code> Análise e Desenvolvimento de Sistemas.<br />
+- :💼Na PLAYVENDER DO BRASIL SA </a>, sou <code>analista de credito</code> no setor de  <br />credito cobrança.<br />
+- :📚Na <a UDEMY</a>, sou aluno nos cursos de  <code>front end, css e javascript </code>, <br>
+- :⚽meu time de coração é o galo 🐓<br>
+- :🚴Nas Horas vagas gosto de jogar bola ⚽ e andar de bicicleta 🥇<br>
 - :🔔Meus hobbies são 🎮, 🍰, 🐕,🎶,⚽ e 🚴
 </p>
 </div>
