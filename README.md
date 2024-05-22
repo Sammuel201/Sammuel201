@@ -24,7 +24,8 @@
   <a href="mailto:samuelferreiradecastro.201@gmail.com" target="_blank"><img alt="mail" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Gmail.svg"_blank"/></a>
   <a href="https://join.skype.com/invite/OaseU20s8c1u" target="_blank"><img alt="skype" src="https://github.com/PkLavc/PkLavc/blob/d1cc43cb4dbae9aba88d199b60fec10f708bda64/resources/Icons/Static/Skype.svg"/></a><br>
 </div>
- 
+
+ -----
 </td>
 </tr>
 <tr>
@@ -131,6 +132,8 @@ Em 2014, conheci meu primeiro emprego, na qual trabalhei em uma padaria no perio
 <tr>
  <br>
  
+ -----
+ 
 ### Tecnologias que eu uso no meu dia a dia
 
 <div style="display: ineline_block"><br/>
@@ -150,6 +153,9 @@ Em 2014, conheci meu primeiro emprego, na qual trabalhei em uma padaria no perio
 <table align="right">
 <tr>
 <br>
+
+ -----
+ 
  <h3>Entre em contato comigo</h3>
 </table align= "center">
 <a href=https://www.linkedin.com/in/sammuel-de-6452b017a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
