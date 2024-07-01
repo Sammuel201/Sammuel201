@@ -22,7 +22,7 @@
   <a href="https://www.instagram.com/samuel.sfc?igsh=cHo0YTcxZnY3bjk2/" target="_blank"><img alt="Instagram" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Instagram.svg" target="_blank"/></a>
   <a href="https://www.linkedin.com/in/sammuel-de-6452b017a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app/" target="_blank"><img alt="Linkedin" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/LinkedIn.svg" target="_blank"/></a>
   <a href="mailto:samuelferreiradecastro.201@gmail.com" target="_blank"><img alt="mail" src="https://github.com/PkLavc/PkLavc/blob/3aedb7980ffa26e11ae57379117bf39ec452a061/resources/Icons/Static/Gmail.svg"_blank"/></a>
-  <a href="https://join.skype.com/invite/OaseU20s8c1u" target="_blank"><img alt="skype" src="https://github.com/PkLavc/PkLavc/blob/d1cc43cb4dbae9aba88d199b60fec10f708bda64/resources/Icons/Static/Skype.svg"/></a><br>
+ 
 </div>
 
  -----
@@ -141,7 +141,7 @@ Em 2014, conheci meu primeiro emprego, na qual trabalhei em uma padaria no perio
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
     <img align="center" alt="html5" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
 </div> <br/>
 
 <br />
@@ -162,8 +162,7 @@ Em 2014, conheci meu primeiro emprego, na qual trabalhei em uma padaria no perio
 <a href="https://wa.me/5531992019664" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 <a href="https://https://www.instagram.com/samuel.sfc?igsh=cHo0YTcxZnY3bjk2/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <br />
-<a href="https://gitlab.com/sammuel201" target="_blank"><img alt="gitlab" src="https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white"/></a>
-<a href="https://github.com/sammuel201" target="_blank"><img alt="github" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+
 </div>
 <div>
 <img align="center" alt="Header" src="Sem título.png?raw=true"/ width= "700px"/ padding= "1px"/ border="2px"/ margin= "2px">
